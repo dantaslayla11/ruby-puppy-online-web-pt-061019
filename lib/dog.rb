@@ -7,7 +7,6 @@ class Dog
     @@all << self 
   end 
   
-   def self.all 
-    puts self.all  
-  end 
+ 
+  
 end 
